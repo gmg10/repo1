@@ -1,6 +1,10 @@
 Good Morning
+<<<<<<< HEAD
 
 
 
 Thursday.
 
+=======
+Thursday.
+>>>>>>> parent of 2e26b14... First Commit
